@@ -8,7 +8,7 @@
 
 # My Profile
 
-<table width="100%">
+<table>
   <tr>
     <td >
       <h3>📫 Contact me:</h3>
