@@ -10,9 +10,9 @@
 
 <table width="100%">
   <tr>
-    <td style="padding: 60px;">
+    <td >
       <h3>📫 Contact me:</h3>
-      <pre><code>adamjamrozinski02@gmail.com</code></pre>
+      <pre><code><h6>adamjamrozinski02@gmail.com</h6></code></pre>
       <h3>You can also find me at:</h3>
       <span>
         <p>
