@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hello 👋! My name is Adam</h2>
+<h2 align="center">Hello from Adam Jamrozinski's README.md</h2>
 <h3 align="center">I study at the Wroclaw University of Technology <br> my faculty's core focus are <ins>algorithms</ins>🤓</h3>
 
 
@@ -46,4 +46,4 @@
 
 ###
 
-⚡ Fun fact:  I’m currently working on algebra 🤔 
+⚡ I’m currently working on algebra 🤔
