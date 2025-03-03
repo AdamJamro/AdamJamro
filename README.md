@@ -9,10 +9,13 @@
 <table>
   <tr>
     <td >
-      <h3>📫 Contact me:</h3>
-      <h6><a href="mailto:adamjamrozinski02@gmail.com">adamjamrozinski02@gmail.com</a></h6>
-      <h3>You can find me at:</h3>
+      <h3>Find me at:</h3>
       <span>
+        <p>
+          <a href="mailto:adamjamrozinski02@gmail.com">
+           <img src="https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail&logoColor=red&labelColor=white" height="30" />
+          </a>
+        </p>
         <p>
           <a href="https://www.linkedin.com/in/adam-jamrozi%C5%84ski-053600353/">
            <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff?style=plastic" height="30"  />            
