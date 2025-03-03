@@ -6,14 +6,12 @@
 
 ###
 
-# My Profile
-
 <table>
   <tr>
     <td >
       <h3>📫 Contact me:</h3>
-      <pre><code><h6>adamjamrozinski02@gmail.com</h6></code></pre>
-      <h3>You can also find me at:</h3>
+      <h6><a href="mailto:adamjamrozinski02@gmail.com">adamjamrozinski02@gmail.com</a></h6>
+      <h3>You can find me at:</h3>
       <span>
         <p>
           <a href="https://www.linkedin.com/in/adam-jamrozi%C5%84ski-053600353/">
