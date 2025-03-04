@@ -13,17 +13,17 @@
       <span>
         <p>
           <a href="mailto:adamjamrozinski02@gmail.com">
-           <img src="https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail&logoColor=red&labelColor=white" height="25" />
+           <img src="https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail&logoColor=red&labelColor=white" height="23" />
           </a>
         </p>
         <p>
           <a href="https://www.linkedin.com/in/adam-jamrozi%C5%84ski-053600353/">
-           <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff?style=plastic" height="25"  />            
+           <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff?style=plastic" height="23"  />            
           </a>  
         </p>
         <p>
           <a href="https://leetcode.com/u/adam268/">
-           <img src="https://img.shields.io/badge/LeetCode-gray?style=plastic&logo=leetcode" height="25"  />
+           <img src="https://img.shields.io/badge/LeetCode-gray?style=plastic&logo=leetcode" height="23"  />
           </a>  
         </p>
       </span>
@@ -31,8 +31,8 @@
     <td align="center">
       <pre><h3>🕵️ My activity around here 👣</h3></pre>
       <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=adamjamro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph"  />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamjamro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph"  />
+        <img src="https://github-readme-stats.vercel.app/api?username=adamjamro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph"  />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamjamro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
       </div>
     </td>
     
