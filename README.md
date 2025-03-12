@@ -10,8 +10,8 @@
   <tr>
     <td>
       <div style="width:100%; max-width:600px; margin: 0 auto;">
-      <h3>Networking:</h3>
-</div>
+        <h3>Network:</h3>
+      </div>
       <span>
         <p>
           <a href="mailto:adamjamrozinski02@gmail.com">
@@ -25,7 +25,7 @@
         </p>
         <p>
           <a href="https://leetcode.com/u/adam268/">
-           <img src="https://img.shields.io/badge/LeetCode-gray?style=plastic&logo=leetcode" height="23" />
+           <img alt="activity-snake-animation" src="https://img.shields.io/badge/LeetCode-gray?style=plastic&logo=leetcode" height="23" width="100" />
           </a>  
         </p>
       </span>
@@ -37,17 +37,14 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamjamro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="120" alt="languages graph"  />
       </div>
     </td>
-    
+  </tr>
+  <tr>
+    <td colspan="2">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/AdamJamro/AdamJamro/output/snake.svg" alt="Snake animation" />
+      </div>
+    </td>
   </tr>
 </table>
 
 ###
-
-<br clear="both">
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AdamJamro/AdamJamro/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
-
-⚡ I’m currently working on algebra 🤔
