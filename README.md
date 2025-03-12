@@ -26,18 +26,19 @@
         <p>
           <a href="https://leetcode.com/u/adam268/">
             <div>
-             <img alt="activity-snake-animation" src="https://img.shields.io/badge/LeetCode-gray?style=plastic&logo=leetcode" height="23" width="100" />
+             <img alt="activity-snake-animation" src="https://img.shields.io/badge/LeetCode-gray?style=plastic&logo=leetcode" height="23" />
             </div>
           </a>  
         </p>
       </span>
     </td>
-    <td align="center">
+    <td align="center" valign="middle">
       <h3>🕵️ My activity around here 👣</h3>
-      <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=adamjamro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="120" alt="stats graph"  />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamjamro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="120" alt="languages graph"  />
-      </div>
+      <span>
+        <img src="https://github-readme-stats.vercel.app/api?username=adamjamro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" width="auto" alt="stats graph"  />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamjamro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" width="auto" alt="languages graph"  />
+        <div>&nbsp;</div>
+      </span>
     </td>
   </tr>
   <tr>
