@@ -35,7 +35,7 @@
     <td align="center" valign="middle">
       <h3>🕵️ My activity around here 👣</h3>
       <span>
-        <img src="https://github-readme-stats.vercel.app/api?username=adamjamro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&bg_color=50,AA11AA,000000,1F0322" height="125" width="auto" alt="stats graph"  />
+        <img src="https://github-readme-stats.vercel.app/api?username=adamjamro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&&hide=stars&hide_border=false&bg_color=50,AA11AA,000000,1F0322" height="125" width="auto" alt="stats graph"  />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamjamro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&bg_color=55,1F0322,000000,000000,1F0322,AA11AA,84F579" height="125" width="auto" alt="languages graph"  />
         <div>&nbsp;</div>
       </span>
