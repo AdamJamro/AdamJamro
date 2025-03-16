@@ -44,7 +44,11 @@
   <tr>
     <td colspan="2">
       <div align="center">
-        <img src="https://raw.githubusercontent.com/AdamJamro/AdamJamro/output/snake.svg" alt="Snake animation" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdamJamro/AdamJamro/output/github-snake-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdamJamro/AdamJamro/output/github-snake.svg" />
+          <img alt="github-snake-animation" src="github-snake.svg" />
+        </picture>
       </div>
     </td>
   </tr>
