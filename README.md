@@ -33,7 +33,7 @@
       </span>
     </td>
     <td align="center" valign="middle">
-      <h3>🕵️ My activity around here 👣</h3>
+      <h3>🕵️ My activity 👣</h3>
       <span>
         <picture>
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=adamjamro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_latte&locale=en&&hide=stars&hide_border=true&bg_color=50,77ff0f,C2B700,C9710D" height="125" />
