@@ -15,18 +15,18 @@
       <span>
         <p>
           <a href="mailto:adamjamrozinski02@gmail.com">
-           <img src="https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail&logoColor=red&labelColor=white" height="23" />
+           <img alt="mail_badge" src="https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail&logoColor=red&labelColor=white" height="23" />
           </a>
         </p>
         <p>
           <a href="https://www.linkedin.com/in/adam-jamrozi%C5%84ski-053600353/">
-           <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff?style=plastic" height="23"  />            
+           <img alt="linkedin_badge" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff?style=plastic" height="23"  />            
           </a>  
         </p>
         <p>
           <a href="https://leetcode.com/u/adam268/">
             <div>
-             <img alt="activity-snake-animation" src="https://img.shields.io/badge/LeetCode-gray?style=plastic&logo=leetcode" height="23" />
+             <img alt="leetcode_badge" src="https://img.shields.io/badge/LeetCode-gray?style=plastic&logo=leetcode" height="23" />
             </div>
           </a>  
         </p>
