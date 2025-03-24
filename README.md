@@ -25,9 +25,7 @@
         </p>
         <p>
           <a href="https://leetcode.com/u/adam268/">
-            <div>
-             <img alt="leetcode_badge" src="https://img.shields.io/badge/LeetCode-gray?style=plastic&logo=leetcode" height="23" />
-            </div>
+           <img alt="leetcode_badge" src="https://img.shields.io/badge/LeetCode-gray?style=plastic&logo=leetcode" height="23" />
           </a>  
         </p>
       </span>
