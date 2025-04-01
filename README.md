@@ -1,8 +1,7 @@
 
 
-<h2 align="center">Hello from Adam Jamrozinski's README.md</h2>
-<h3 align="center">I study at the Wroclaw University of Technology <br> My faculty primarily revolves around <ins>algorithms</ins>🤓</h3>
-
+<h2 align="center">Adam Jamrozinski' README.md</h2>
+<h3 align="center">I study at the Wroclaw University of Science and Technology <br> My major primarily revolves around <ins>algorithms</ins>🤓</h3>
 
 ###
 
