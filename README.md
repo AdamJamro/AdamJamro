@@ -1,7 +1,9 @@
 
 
 <h2 align="center">Adam Jamrozinski' README.md</h2>
-<h3 align="center">I study at the Wroclaw University of Science and Technology <br> My major primarily revolves around <ins>algorithms</ins>🤓</h3>
+<h3 align="center">I'm a CS student. My major primarily revolves around <ins>algorithms</ins>🤓</h3>
+<div></div>
+<h4 align="center">My tech interests include statistics and low-level programming.<br>I'm open to collaboration!</h4>
 
 ###
 
