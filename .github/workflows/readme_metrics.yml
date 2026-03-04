@@ -31,8 +31,8 @@ jobs:
       - name: language stats
         uses: lowlighter/metrics@latest
         with:
-          # filename: language-stats.svg
-          outputs: dist/language-stats.svg
+          filename: dist/language-stats.svg
+          # outputs: dist/language-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           plugin_languages: yes
           # plugin_languages_threshold: yes
