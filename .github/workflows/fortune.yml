@@ -1,8 +1,8 @@
-name: Fortune
+name: LowlighterMetrics
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # runs daily at midnight UTC
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
   workflow_dispatch:      # allow manual trigger
 
 permissions:
@@ -21,10 +21,32 @@ jobs:
           token: NOT_NEEDED
           plugin_fortune: yes
 
-      - name: push fortune to the fortune branch
+      - name: language stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: dist/language-stats.svg
+          # token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_languages: yes
+          # plugin_languages_threshold: yes
+          commits_authoring: adam jamro, adamjamro, adamjamrozinski02@gmail.com
+
+      - name: repositories and diff history
+        uses: lowlighter/metrics@latest
+        with:
+          filename: dist/metrics.plugin.lines.history.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_lines: yes
+          plugin_lines_delay: 30
+          plugin_lines_sections: repositories, history
+          plugin_lines_repositories_limit: 2
+          plugin_lines_history_limit: 1
+          repositories_skipped:
+
+      - name: store dist to metrics branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: fortune
+          target_branch: lowlighter_metrics
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
