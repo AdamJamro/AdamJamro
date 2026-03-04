@@ -18,6 +18,7 @@ jobs:
         with:
           filename: dist/metrics.plugin.fortune.svg
           base: ""
+          token: NOT_NEEDED
           plugin_fortune: yes
 
       - name: push fortune to the fortune branch
