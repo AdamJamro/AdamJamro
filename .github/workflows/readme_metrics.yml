@@ -15,10 +15,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      # - name: create dist
-      #   run: mkdir -p dist
+      - name: checkout
+        run: git checkout lowlighter_metrics 
         
       - name: fetch fortune
         uses: lowlighter/metrics@latest
@@ -50,14 +50,3 @@ jobs:
           plugin_lines_repositories_limit: 2
           plugin_lines_history_limit: 1
           repositories_skipped:
-
-      - name: debug
-        run: ls
-        
-      - name: store dist to metrics branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: lowlighter_metrics
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
