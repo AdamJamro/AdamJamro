@@ -13,6 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v4
+
+      - name: create dist
+        run: mkdir -p dist
+        
       - name: fetch fortune
         uses: lowlighter/metrics@latest
         with:
@@ -45,7 +50,7 @@ jobs:
           repositories_skipped:
 
       - name: debug
-        run: ls .
+        run: ls
         
       - name: store dist to metrics branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
