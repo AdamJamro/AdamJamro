@@ -1,4 +1,4 @@
-name: LowlighterMetrics
+name: lowlighter metrics
 
 on:
   schedule:
@@ -14,25 +14,11 @@ jobs:
       
     runs-on: ubuntu-latest
 
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0   # fetch full history
-
-      - name: checkout
-        run: |
-          git branch
-          echo " " 
-          git checkout lowlighter_metrics
-          echo " "
-          ls
-          echo " "
-          git branch
-        
+    steps:        
       - name: fetch fortune
         uses: lowlighter/metrics@latest
         with:
-          filename: dist/metrics.plugin.fortune.svg
+          filename: lowlighter/metrics.plugin.fortune.svg
           base: ""
           token: NOT_NEEDED
           plugin_fortune: yes
@@ -40,7 +26,7 @@ jobs:
       - name: language stats
         uses: lowlighter/metrics@latest
         with:
-          filename: dist/language-stats.svg
+          filename: lowlighter/language-stats.svg
           # outputs: dist/language-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           plugin_languages: yes
@@ -50,7 +36,7 @@ jobs:
       - name: repositories and diff history
         uses: lowlighter/metrics@latest
         with:
-          filename: dist/metrics.plugin.lines.history.svg
+          filename: lowlighter/metrics.plugin.lines.history.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_lines: yes
