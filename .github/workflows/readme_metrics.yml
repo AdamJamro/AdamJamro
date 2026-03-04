@@ -22,7 +22,12 @@ jobs:
       - name: checkout
         run: |
           git branch
-          git checkout lowlighter_metrics 
+          echo " " 
+          git checkout lowlighter_metrics
+          echo " "
+          ls
+          echo " "
+          git branch
         
       - name: fetch fortune
         uses: lowlighter/metrics@latest
