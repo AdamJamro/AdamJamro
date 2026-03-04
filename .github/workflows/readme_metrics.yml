@@ -13,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      # - uses: actions/checkout@v4
 
-      - name: create dist
-        run: mkdir -p dist
+      # - name: create dist
+      #   run: mkdir -p dist
         
       - name: fetch fortune
         uses: lowlighter/metrics@latest
@@ -29,7 +29,7 @@ jobs:
       - name: language stats
         uses: lowlighter/metrics@latest
         with:
-          filename: language-stats.svg
+          # filename: language-stats.svg
           outputs: dist/language-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           plugin_languages: yes
