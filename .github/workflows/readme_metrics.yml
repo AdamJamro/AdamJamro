@@ -24,7 +24,8 @@ jobs:
       - name: language stats
         uses: lowlighter/metrics@latest
         with:
-          filename: dist/language-stats.svg
+          filename: language-stats.svg
+          outputs: dist/language-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           plugin_languages: yes
           # plugin_languages_threshold: yes
@@ -43,6 +44,9 @@ jobs:
           plugin_lines_history_limit: 1
           repositories_skipped:
 
+      - name: debug
+        run: ls .
+        
       - name: store dist to metrics branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
