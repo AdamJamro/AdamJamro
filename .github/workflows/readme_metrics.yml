@@ -18,7 +18,9 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: checkout
-        run: git checkout lowlighter_metrics 
+        run: |
+          git branch
+          git checkout lowlighter_metrics 
         
       - name: fetch fortune
         uses: lowlighter/metrics@latest
