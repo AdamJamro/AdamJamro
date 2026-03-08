@@ -1,13 +1,10 @@
-
-
-<h2 align="center">Adam Jamrozinski' README.md</h2>
-<h3 align="center">I'm a CS student. My major primarily revolves around <ins>algorithms</ins>🤓</h3>
-<div></div>
-<h4 align="center">I have a keen interest in statistics and mathematics<br>I'm excited about AI safety</h4>
-
-###
-
 <table align="center">
+  <td colspan="2">
+    <h2 align="center">Adam Jamrozinski' README.md</h2>
+    <h3 align="center">I'm a CS student. My major primarily revolves around <ins>algorithms</ins>🤓</h3>
+    <div></div>
+    <h4 align="center">I have a keen interest in statistics and mathematics<br>I'm excited about AI safety</h4>
+  </td>
   <tr>
     <td align="center">
       <div>
